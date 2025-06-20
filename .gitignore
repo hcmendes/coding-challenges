@@ -1,0 +1,17 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Maven
+/target/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de compilação
+*.class
+/out/
